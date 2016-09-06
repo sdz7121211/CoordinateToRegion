@@ -12,3 +12,8 @@ lat = 40.13 # 纬度
 pro, city, xiangzhen = getRegion(lon, lat) # 省份、城市、乡镇
 
 print pro, city, xiangzhen
+
+
+# First
+
+git clone https://github.com/sdz7121211/CoordinateToRegion
