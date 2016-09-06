@@ -17,3 +17,5 @@ print pro, city, xiangzhen
 # First
 
 git clone https://github.com/sdz7121211/CoordinateToRegion
+
+copy CoordinateToRegion to your project path.
