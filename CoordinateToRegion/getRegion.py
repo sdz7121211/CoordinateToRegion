@@ -1,4 +1,4 @@
-from CoordinateToRegion.CoordinateToRegion.CoordinateToRegion import CoordinateToRegion
+from CoordinateToRegion import CoordinateToRegion
 
 
 global ctr

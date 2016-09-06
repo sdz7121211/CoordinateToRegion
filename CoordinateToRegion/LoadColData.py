@@ -1,7 +1,7 @@
 # coding: utf-8
 import os
 
-from CoordinateToRegion.CoordinateToRegion.CoordinateToRegion import base_path
+from __init__ import base_path
 
 
 class LoadColData(object):
